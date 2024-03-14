@@ -29,7 +29,7 @@ Ejercicios del tema 2:
 
 [Regla Falsa #5](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/c9089cd3073689e0256b7abcf86df8bef17e6b1e/ReglaFalsa5)
 
-
+[Secuencial #2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/c5e0e5da74f28394cd177c0c0ef0cd6c927d7c1a/Secejr2)
 
 [Ejemplo secuencial #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/444402f2bf4d18cad23e21ec490e3d6f780b49c4/Secuencial%20%234)
 
