@@ -66,6 +66,9 @@ Para obtener:
 
 [Implementación de la Eliminación Gaussiana en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/817479e8f9e1d3c37112a8a8af7ddf19fa1cd0ff/Imp_Elim_Gaussiana)
 
+Algoritmo:
+
+
 [Ejemplo 1](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/d1559bcc35962bc76f0a4ecfd72828550e443085/Eliminaci%C3%B3n%20Gaussiana%201)
 
 [Ejemplo 2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/9b8363e80ef38c004e1c7db13103d91cc4e86a90/ElimGaus2)
@@ -85,3 +88,4 @@ Para facilitar el cálculo vamos a transformar el sistema en una matriz, en la q
 
 [![image.png](https://i.postimg.cc/dQGF64ns/image.png)](https://postimg.cc/nMVNcK6g)
 
+[Implementación de la Eliminación Gaussiana en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/4cf04d8aeeaaedb0b99996b9851d0003ca7c5c4c/ImJordan)
