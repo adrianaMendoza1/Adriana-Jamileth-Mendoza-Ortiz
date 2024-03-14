@@ -72,6 +72,6 @@ Para obtener:
 
 [Ejemplo 3](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/5018cc6db5b7fb7fce9a765a9d6dabd9e1250a4e/ElimGauss3)
 
-[Ejemplo 4]()
+[Ejemplo 4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/20ba9cb5e5739511ff419be4dba1750cbc4d3780/ElimGaus4)
 
 [Ejemplo 5]()
