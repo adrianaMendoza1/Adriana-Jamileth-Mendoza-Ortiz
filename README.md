@@ -25,6 +25,8 @@ Ejercicios del tema 2:
 
 [Regla Falsa #2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/b66319f5f06141f8400d13f2b7bdc2fe7fa4bb6b/ReglaFalsa2)
 
+[Regla Falsa #3](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/a15ed6fe2325253e7d32cb369a23b24617bbec5b/ReglaFalsa3)
+
 
 
 [Ejemplo secuencial #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/444402f2bf4d18cad23e21ec490e3d6f780b49c4/Secuencial%20%234)
