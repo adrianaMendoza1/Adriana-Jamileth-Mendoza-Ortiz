@@ -153,6 +153,6 @@ Algoritmo:
 
 [Ejemplo 3](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/7993e9811b822ddf66f8c4021e103aa3cd92ff20/Seidel3)
 
-[Ejemplo 4]()
+[Ejemplo 4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/9b0df0aad71d03e3eb51158f227657757c54dba0/Seidel4)
 
 [Ejemplo 5]()
