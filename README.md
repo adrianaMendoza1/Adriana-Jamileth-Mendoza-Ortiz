@@ -9,4 +9,10 @@ Ejercicios del tema 2:
 
 [Bisección #5](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/faeee8b343c17af2ce3539f609a66385ce7f3570/Bisecci%C3%B3n5)
 
+[Ejercicio #2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/a28d9f75a66e84e42a9f74034151857d9a32d5dc/Ejercicio2)
+
+
+
 [Ejemplo secuencial #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/444402f2bf4d18cad23e21ec490e3d6f780b49c4/Secuencial%20%234)
+
+
