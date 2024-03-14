@@ -38,6 +38,27 @@
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">"Apuntes tema #3"</span></b></p>
 
-[![Whats-App-Image-2024-03-13-at-10-18-37-PM.jpg](https://i.postimg.cc/mgjbV067/Whats-App-Image-2024-03-13-at-10-18-37-PM.jpg)](https://postimg.cc/cvKyL5WJ)
+El método de eliminación gaussiana consiste en:
+1) Llevar un sistema de ecuaciones a la forma matricial.
+2) Convertir una matriz cuadrada en una matriz triangular superior, que es equivalente a la matriz original.
+3) Resolver el sistema, sustituyendo las variables en cada ecuación resultante.
+
+En otras palabras, el sistema transforma un sistema como:
+
+[![Captura-de-pantalla-2024-03-13-223457.png](https://i.postimg.cc/yNTLbCMX/Captura-de-pantalla-2024-03-13-223457.png)](https://postimg.cc/bGs0ZWNs)
+
+En una matriz como:
+
+[![Captura-de-pantalla-2024-03-13-223600.png](https://i.postimg.cc/pdVSxdY1/Captura-de-pantalla-2024-03-13-223600.png)](https://postimg.cc/TKS0Jfsr)
+
+Y, usando operaciones de suma, resta y producto, convertir la matriz en una triangular del tipo:
+
+[![Captura-de-pantalla-2024-03-13-223713.png](https://i.postimg.cc/qRwMqq9h/Captura-de-pantalla-2024-03-13-223713.png)](https://postimg.cc/8JFVnpkN)
+
+Para obtener:
+
+[![Captura-de-pantalla-2024-03-13-223755.png](https://i.postimg.cc/mrwGNqVK/Captura-de-pantalla-2024-03-13-223755.png)](https://postimg.cc/WDhKs5B7)
+
+
 
 [Implementación de la Eliminación Gaussiana en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/817479e8f9e1d3c37112a8a8af7ddf19fa1cd0ff/Imp_Elim_Gaussiana)
