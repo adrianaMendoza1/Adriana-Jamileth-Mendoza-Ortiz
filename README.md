@@ -38,3 +38,5 @@
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">"Apuntes tema #3"</span></b></p>
 
+[![Whats-App-Image-2024-03-13-at-10-18-37-PM.jpg](https://i.postimg.cc/mgjbV067/Whats-App-Image-2024-03-13-at-10-18-37-PM.jpg)](https://postimg.cc/cvKyL5WJ)
+
