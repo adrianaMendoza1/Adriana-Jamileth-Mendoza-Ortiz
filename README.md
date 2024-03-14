@@ -11,6 +11,8 @@ Ejercicios del tema 2:
 
 [Ejercicio #2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/a28d9f75a66e84e42a9f74034151857d9a32d5dc/Ejercicio2)
 
+[Ejercicio #3](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/cab3e098500cbb2ca78298d6605dd4b7e5bf9666/Ejercicio3)
+
 
 
 [Ejemplo secuencial #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/444402f2bf4d18cad23e21ec490e3d6f780b49c4/Secuencial%20%234)
