@@ -179,7 +179,7 @@ Algoritmo:
 
 [Ejemplo 1](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/16a9484845335fd17751a97df3826196dd2a399e/Jacobi1)
 
-[Ejemplo 2]()
+[Ejemplo 2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/946359ea832d4b6c8833b2efa1ab23c5b95ba995/Jacobi2)
 
 [Ejemplo 3]()
 
