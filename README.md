@@ -68,4 +68,6 @@ Para obtener:
 
 [Ejemplo 1](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/d1559bcc35962bc76f0a4ecfd72828550e443085/Eliminaci%C3%B3n%20Gaussiana%201)
 
+[Ejemplo 2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/9b8363e80ef38c004e1c7db13103d91cc4e86a90/ElimGaus2)
 
+[Ejemplo 3]()
