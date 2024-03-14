@@ -65,3 +65,7 @@ Para obtener:
 
 
 [Implementación de la Eliminación Gaussiana en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/817479e8f9e1d3c37112a8a8af7ddf19fa1cd0ff/Imp_Elim_Gaussiana)
+
+[Ejemplo 1](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/d1559bcc35962bc76f0a4ecfd72828550e443085/Eliminaci%C3%B3n%20Gaussiana%201)
+
+
