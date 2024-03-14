@@ -99,7 +99,7 @@ Para facilitar el cálculo vamos a transformar el sistema en una matriz, en la q
 
 [![image.png](https://i.postimg.cc/dQGF64ns/image.png)](https://postimg.cc/nMVNcK6g)
 
-[Implementación de la Eliminación Gaussiana en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/4cf04d8aeeaaedb0b99996b9851d0003ca7c5c4c/ImJordan)
+[Implementación de Gauss-Jordan en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/4cf04d8aeeaaedb0b99996b9851d0003ca7c5c4c/ImJordan)
 
 
 Algoritmo:
@@ -131,3 +131,4 @@ consiste en hacer iteraciones, a partir de un vector inicial, para encontrar los
 
 [![image.png](https://i.postimg.cc/W39mrMK0/image.png)](https://postimg.cc/sQhZCZ32)
 
+[Implementación de Gauss-Seidel en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/2ac4cf42f06b5b1c98435f24447c0fdf93c1411f/ImpSeidel)
