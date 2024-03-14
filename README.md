@@ -21,6 +21,8 @@ Ejercicios del tema 2:
 
 [Newton #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/f08c866286e785a9674b38a1d5d4caeceb4929b9/Newton4)
 
+[Newton #5](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/e85119e0246679ee3da633668ad14b8a09c46cae/Newton5)
+
 
 
 [Ejemplo secuencial #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/444402f2bf4d18cad23e21ec490e3d6f780b49c4/Secuencial%20%234)
