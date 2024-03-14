@@ -67,7 +67,16 @@ Para obtener:
 [Implementación de la Eliminación Gaussiana en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/817479e8f9e1d3c37112a8a8af7ddf19fa1cd0ff/Imp_Elim_Gaussiana)
 
 Algoritmo:
-
+1) Clonar la matriz original para no modificarla directamente.
+2) Inicializar índices i y j a 0.
+3) Entrar en un bucle mientras i sea menor que la altura de la matriz y j sea menor que el ancho de la matriz.
+4) En cada iteración, se busca el pivote en la columna actual (j) buscando el elemento con el mayor valor absoluto en esa columna.
+5) Si el pivote encontrado no es cero, se intercambia la fila actual (i) con la fila del pivote.
+6) Se normaliza la fila actual dividiendo todos los elementos de la fila por el valor del pivote.
+7) Se eliminan los elementos por debajo del pivote, es decir, se hace cero los elementos debajo del pivote en la columna actual, usando la fila actual y operaciones de fila elementales.
+8) Se incrementan los índices i y j.
+9) El bucle continúa hasta que i sea mayor o igual que la altura de la matriz o j sea mayor o igual que el ancho de la matriz.
+10) Se devuelve la matriz modificada que representa la matriz inversa.
 
 [Ejemplo 1](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/d1559bcc35962bc76f0a4ecfd72828550e443085/Eliminaci%C3%B3n%20Gaussiana%201)
 
@@ -89,3 +98,16 @@ Para facilitar el cálculo vamos a transformar el sistema en una matriz, en la q
 [![image.png](https://i.postimg.cc/dQGF64ns/image.png)](https://postimg.cc/nMVNcK6g)
 
 [Implementación de la Eliminación Gaussiana en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/4cf04d8aeeaaedb0b99996b9851d0003ca7c5c4c/ImJordan)
+
+Algoritmo:
+1) Se define una matriz a[][] que representa el sistema de ecuaciones lineales en forma aumentada, donde las primeras n columnas representan los coeficientes de las variables y la última columna representa los términos constantes.
+2) Se define una función PerformOperation() que reduce la matriz a la forma escalonada reducida por filas. Esta función recorre cada fila i de la matriz y realiza las siguientes operaciones:
+   1) Si el elemento diagonal a[i][i] es cero, se intercambia esa fila con una fila debajo de ella que tenga un elemento no nulo en la misma columna. Esto se hace para evitar divisiones
+      por cero y para hacer ceros por debajo de la diagonal principal.
+   2) Luego, se realiza la eliminación gaussiana para hacer ceros en las columnas por encima y por debajo de la diagonal principal.
+3) Se define una función CheckConsistency() que determina si hay soluciones únicas, soluciones infinitas o ninguna solución, según la matriz resultante después de la eliminación gaussiana. Esta función calcula la suma de los coeficientes de cada ecuación y compara esa suma con el término constante. Si todas las sumas son iguales a los términos constantes, significa que hay soluciones infinitas. Si al menos una suma no es igual a su término constante correspondiente, significa que no hay solución. En caso contrario, hay soluciones únicas.
+4) Se realiza la impresión de la matriz resultante y se imprime el resultado del sistema de ecuaciones, ya sea que existan soluciones únicas, soluciones infinitas o ninguna solución.
+
+
+
+[Ejemplo 1]()
