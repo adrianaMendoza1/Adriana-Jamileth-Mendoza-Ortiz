@@ -15,7 +15,7 @@ Ejercicios del tema 2:
 
 [Ejercicio #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/3aaf3c060e37bedea29478af3863acf698bdd69e/Ejercicio4)
 
-
+EJERCICIOS DEL TEMA 2:
 
 [Ejemplo secuencial #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/444402f2bf4d18cad23e21ec490e3d6f780b49c4/Secuencial%20%234)
 
