@@ -70,4 +70,8 @@ Para obtener:
 
 [Ejemplo 2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/9b8363e80ef38c004e1c7db13103d91cc4e86a90/ElimGaus2)
 
-[Ejemplo 3]()
+[Ejemplo 3](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/5018cc6db5b7fb7fce9a765a9d6dabd9e1250a4e/ElimGauss3)
+
+[Ejemplo 4]()
+
+[Ejemplo 5]()
