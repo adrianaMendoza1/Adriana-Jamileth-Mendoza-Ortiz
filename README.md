@@ -80,3 +80,5 @@ Para obtener:
 **GAUSS JORDAN**
 ---
 
+Consiste en transformar un sistema de ecuaciones en otro equivalente de forma que este sea escalonado.
+Para facilitar el cálculo vamos a transformar el sistema en una matriz, en la que pondremos los coeficientes de las variables y los términos independientes (separados por una recta).
