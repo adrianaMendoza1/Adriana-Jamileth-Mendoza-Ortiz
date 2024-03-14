@@ -131,4 +131,20 @@ consiste en hacer iteraciones, a partir de un vector inicial, para encontrar los
 
 [![image.png](https://i.postimg.cc/W39mrMK0/image.png)](https://postimg.cc/sQhZCZ32)
 
+
 [Implementación de Gauss-Seidel en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/2ac4cf42f06b5b1c98435f24447c0fdf93c1411f/ImpSeidel)
+
+
+
+Algoritmo:
+
+1) Se define una clase GFG que contiene métodos para realizar la transformación a una matriz diagonalmente dominante, imprimir la matriz y resolver el sistema de ecuaciones.
+2) Se define una constante MAX_ITERATIONS que establece el número máximo de iteraciones permitidas para evitar un bucle infinito.
+3) Se define un constructor GFG que toma una matriz de coeficientes como argumento.
+4) El método print() se utiliza para imprimir la matriz.
+5) El método transformToDominant() intenta transformar la matriz en una matriz diagonalmente dominante. Se utiliza recursión para encontrar la permutación de filas que hará que la matriz sea diagonalmente dominante.
+6) El método makeDominant() verifica si la matriz es diagonalmente dominante o no. Si no lo es, intenta transformarla utilizando transformToDominant().
+7) El método solve() se encarga de resolver el sistema de ecuaciones utilizando el método de Gauss-Seidel. Utiliza un bucle while para iterar hasta que se cumpla el criterio de convergencia o hasta que se alcance el número máximo de iteraciones. En cada iteración, se calculan las aproximaciones de las variables X[] utilizando la fórmula de Gauss-Seidel. Se imprimen las aproximaciones en cada iteración.
+8) En el método main(), se crea una matriz de ejemplo y se instancia un objeto de la clase GFG. Se verifica si la matriz es diagonalmente dominante y, si no lo es, se imprime un mensaje de advertencia. Luego, se imprime la matriz y se resuelve el sistema de ecuaciones utilizando el método solve().
+
+
