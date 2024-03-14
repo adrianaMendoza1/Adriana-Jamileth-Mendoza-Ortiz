@@ -23,6 +23,8 @@ Ejercicios del tema 2:
 
 [Newton #5](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/e85119e0246679ee3da633668ad14b8a09c46cae/Newton5)
 
+[Regla Falsa #2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/b66319f5f06141f8400d13f2b7bdc2fe7fa4bb6b/ReglaFalsa2)
+
 
 
 [Ejemplo secuencial #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/444402f2bf4d18cad23e21ec490e3d6f780b49c4/Secuencial%20%234)
