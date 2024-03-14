@@ -31,6 +31,6 @@ Ejercicios del tema 2:
 
 [Secuencial #2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/c5e0e5da74f28394cd177c0c0ef0cd6c927d7c1a/Secejr2)
 
+[Secuencial #3](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/edb113f08f4b512c0325a0571b9af95dc0c0c395/Secejr3)
+
 [Ejemplo secuencial #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/444402f2bf4d18cad23e21ec490e3d6f780b49c4/Secuencial%20%234)
-
-
