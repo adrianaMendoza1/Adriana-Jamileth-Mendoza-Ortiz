@@ -75,3 +75,8 @@ Para obtener:
 [Ejemplo 4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/20ba9cb5e5739511ff419be4dba1750cbc4d3780/ElimGaus4)
 
 [Ejemplo 5](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/224999a645bb1735d51cd6ea531ac94870a28830/ElimGauss5)
+
+
+**GAUSS JORDAN**
+---
+
