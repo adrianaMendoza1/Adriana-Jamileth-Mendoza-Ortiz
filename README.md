@@ -151,7 +151,7 @@ Algoritmo:
 
 [Ejemplo 2](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/ab36a61eaeadbf779c792537691709159a02c806/Seidel2)
 
-[Ejemplo 3]()
+[Ejemplo 3](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/7993e9811b822ddf66f8c4021e103aa3cd92ff20/Seidel3)
 
 [Ejemplo 4]()
 
