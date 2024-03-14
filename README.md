@@ -38,6 +38,8 @@
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">"Apuntes tema #3"</span></b></p>
 
+<p align="left"><b><span style="font-family: Negrita; font-size: 200px;">"Equipo: Wenceslao Benitez Rosquero, Jair Cano Rojas y Adriana Jamileth Mendoza Ortiz"</span></b></p>
+
 **ELIMINACIÓN GAUSSIANA**
 ---
 
@@ -118,5 +120,8 @@ Algoritmo:
 
 [Ejemplo 4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/985f01b147c8edb0c57fc6966cd87d35bbc157d7/Jordan4)
 
-[Ejemplo 5]()
+[Ejemplo 5](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/3f510db0abe26754ee6c63d640b1ab0bdaf19465/Jordan5)
+
+
+
 
