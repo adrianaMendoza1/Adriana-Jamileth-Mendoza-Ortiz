@@ -147,7 +147,7 @@ Algoritmo:
 7) El método solve() se encarga de resolver el sistema de ecuaciones utilizando el método de Gauss-Seidel. Utiliza un bucle while para iterar hasta que se cumpla el criterio de convergencia o hasta que se alcance el número máximo de iteraciones. En cada iteración, se calculan las aproximaciones de las variables X[] utilizando la fórmula de Gauss-Seidel. Se imprimen las aproximaciones en cada iteración.
 8) En el método main(), se crea una matriz de ejemplo y se instancia un objeto de la clase GFG. Se verifica si la matriz es diagonalmente dominante y, si no lo es, se imprime un mensaje de advertencia. Luego, se imprime la matriz y se resuelve el sistema de ecuaciones utilizando el método solve().
 
-[Ejemplo 1]()
+[Ejemplo 1](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/f872c7e62e9f63e82fbe04a3376195cf1a3430a7/Seidel1)
 
 [Ejemplo 2]()
 
