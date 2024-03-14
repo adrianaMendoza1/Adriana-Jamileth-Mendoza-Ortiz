@@ -19,6 +19,8 @@ Ejercicios del tema 2:
 
 [Newton #3](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/f2de5d688072f67427ca2ac09bbc9984b3e68213/Newton3)
 
+[Newton #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/f08c866286e785a9674b38a1d5d4caeceb4929b9/Newton4)
+
 
 
 [Ejemplo secuencial #4](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/444402f2bf4d18cad23e21ec490e3d6f780b49c4/Secuencial%20%234)
