@@ -177,7 +177,7 @@ Algoritmo:
    d. Actualiza las suposiciones anteriores (xg, yg, zg) con las nuevas (x, y, z).
 3) Imprime los valores finales de x, y, y z.
 
-[Ejemplo 1]()
+[Ejemplo 1](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/16a9484845335fd17751a97df3826196dd2a399e/Jacobi1)
 
 [Ejemplo 2]()
 
