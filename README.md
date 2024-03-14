@@ -165,4 +165,24 @@ Es otro método iterativo para resolver sistemas de ecuaciones lineales, donde s
 
 [![image.png](https://i.postimg.cc/C50Qcysb/image.png)](https://postimg.cc/G8MKp5Np)
 
-[Implementación de Jacobi en Java]()
+[Implementación de Jacobi en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/551d0dbec43aef422840738d04a0b50e9b7d1e80/ImpJacobi)
+
+Algoritmo:
+1) Inicializa las variables, incluyendo la suposición inicial xg, yg, zg, el error inicial error, y el contador de iteraciones count.
+2) Mientras que el error sea mayor que un valor de tolerancia predeterminado (1.E-5 en este caso):
+   a. Incrementa el contador de iteraciones.
+   b. Calcula las nuevas suposiciones (x, y, z) basadas en las suposiciones anteriores (xg, yg, zg) utilizando las ecuaciones del método 
+      de Jacobi.
+   c. Evalúa el error entre las nuevas y anteriores suposiciones (x, y, z) y actualiza el error.
+   d. Actualiza las suposiciones anteriores (xg, yg, zg) con las nuevas (x, y, z).
+3) Imprime los valores finales de x, y, y z.
+
+[Ejemplo 1]()
+
+[Ejemplo 2]()
+
+[Ejemplo 3]()
+
+[Ejemplo 4]()
+
+[Ejemplo 5]()
