@@ -40,3 +40,4 @@
 
 [![Whats-App-Image-2024-03-13-at-10-18-37-PM.jpg](https://i.postimg.cc/mgjbV067/Whats-App-Image-2024-03-13-at-10-18-37-PM.jpg)](https://postimg.cc/cvKyL5WJ)
 
+[Implementación de la Eliminación Gaussiana en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/817479e8f9e1d3c37112a8a8af7ddf19fa1cd0ff/Imp_Elim_Gaussiana)
