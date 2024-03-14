@@ -91,7 +91,7 @@ Algoritmo:
 [Ejemplo 5](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/224999a645bb1735d51cd6ea531ac94870a28830/ElimGauss5)
 
 
-**GAUSS JORDAN**
+**GAUSS-JORDAN**
 ---
 
 Consiste en transformar un sistema de ecuaciones en otro equivalente de forma que este sea escalonado.
@@ -100,6 +100,7 @@ Para facilitar el cálculo vamos a transformar el sistema en una matriz, en la q
 [![image.png](https://i.postimg.cc/dQGF64ns/image.png)](https://postimg.cc/nMVNcK6g)
 
 [Implementación de la Eliminación Gaussiana en Java](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/4cf04d8aeeaaedb0b99996b9851d0003ca7c5c4c/ImJordan)
+
 
 Algoritmo:
 1) Se define una matriz a[][] que representa el sistema de ecuaciones lineales en forma aumentada, donde las primeras n columnas representan los coeficientes de las variables y la última columna representa los términos constantes.
@@ -123,5 +124,10 @@ Algoritmo:
 [Ejemplo 5](https://github.com/adrianaMendoza1/Adriana-Jamileth-Mendoza-Ortiz/blob/3f510db0abe26754ee6c63d640b1ab0bdaf19465/Jordan5)
 
 
+**GAUSS-SEIDEL**
+---
 
+consiste en hacer iteraciones, a partir de un vector inicial, para encontrar los valores de las incógnitas hasta llegar a una tolerancia deseada, la diferencia radica en que cada vez que se desee encontrar un nuevo valor de una xi, además de usar los valores anteriores de las x, también utiliza valores actuales de las x encontradas antes (desde x0 hasta xi-1). La ecuación es la siguiente:
+
+[![image.png](https://i.postimg.cc/W39mrMK0/image.png)](https://postimg.cc/sQhZCZ32)
 
