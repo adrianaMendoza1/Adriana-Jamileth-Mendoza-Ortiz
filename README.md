@@ -38,6 +38,9 @@
 
 <p align="center"><b><span style="font-family: Negrita; font-size: 200px;">"Apuntes tema #3"</span></b></p>
 
+**ELIMINACIÓN GAUSSIANA**
+---
+
 El método de eliminación gaussiana consiste en:
 1) Llevar un sistema de ecuaciones a la forma matricial.
 2) Convertir una matriz cuadrada en una matriz triangular superior, que es equivalente a la matriz original.
